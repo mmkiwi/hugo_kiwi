@@ -1,0 +1,11 @@
+name: Kiwi
+license: MPL
+licenselink: 'https://github.com/mmkiwi/hugo_kiwi/blob/master/LICENSE'
+description: ''
+homepage: 'https://github.com/mmkiwi/hugo_kiwi/'
+tags: []
+features: []
+min_version: '0.41'
+author:
+  name: 'Micah Makaiwi'
+  homepage: 'mmkiwi.com'
